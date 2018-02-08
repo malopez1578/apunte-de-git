@@ -37,4 +37,7 @@ git commit --amend = abre la configuracion del mensaje del ultimo commit
 git commit -a -m= saltar la zona de preparacion
 git rm =elimina archivos rastreados del repositorio y de nuestro directorio de trabajo
 git checkout --<"file">= recuperar archivos borrados
-git mv = renombra un archivo
+git mv file_from file:to= renombra un archivo
+
+git log --oneline = nos muestra el historial en una solo linea
+git log --graph = muestra las ramificaciones del historial
