@@ -36,3 +36,5 @@ git commit --amend = abre la configuracion del mensaje del ultimo commit
 .gitignore = Patrones de nombres de archivos que Git ignorara
 git commit -a -m= saltar la zona de preparacion
 git rm =elimina archivos rastreados del repositorio y de nuestro directorio de trabajo
+git checkout --<"file">= recuperar archivos borrados
+git mv = renombra un archivo
