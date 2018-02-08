@@ -34,3 +34,4 @@ git reset HEAD <"file">= saca los archivos de la zona de preparación
 git commit --amend = abre la configuracion del mensaje del ultimo commit
 
 .gitignore = Patrones de nombres de archivos que Git ignorara
+git commit -a -m= saltar la zona de preparacion
