@@ -68,3 +68,10 @@ git show = para ver las etiquetas y cambios echos en el commit
 ### filtrar etiquetas
 
 git tag -l "v1*" = filtra las etiquetas de acuerdo a las referencias
+
+### Ramas
+
+git branch = crea nuevas ramas
+se pasa a las ramas con checkout
+
+
