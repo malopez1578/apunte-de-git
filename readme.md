@@ -41,3 +41,4 @@ git mv file_from file:to= renombra un archivo
 
 git log --oneline = nos muestra el historial en una solo linea
 git log --graph = muestra las ramificaciones del historial
+git log --pretty=format = nos asigna el formato que indiquemos
