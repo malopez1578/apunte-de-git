@@ -31,3 +31,4 @@ git status diff = muestra la diferencia entre archivos a cargar
 git statur diff -staff= diferencia entre dos archivos pendientes a cargar con el mismo nombre
 git add .=agrega todos los archivos
 git reset HEAD <"file">= saca los archivos de la zona de preparación
+git commit --amend = abre la configuracion del mensaje del ultimo commit
