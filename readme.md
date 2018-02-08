@@ -1,5 +1,7 @@
 ## curso git desde 0
 
+Sistema de contro de versiones para el mantenimiento eficiente y confiable de archivos
+
 ###Zonas de Git
 1. Directorio de trabajo
 2. Area de preparación
@@ -27,3 +29,5 @@ git add <"file"> agrega archivos al repositorio
 git commit -m "mensaje descripcion cambios" = guarda los archivos en el repositorio
 git status diff = muestra la diferencia entre archivos a cargar
 git statur diff -staff= diferencia entre dos archivos pendientes a cargar con el mismo nombre
+git add .=agrega todos los archivos
+git reset HEAD <"file">= saca los archivos de la zona de preparación
