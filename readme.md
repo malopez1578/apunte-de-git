@@ -63,6 +63,8 @@ git tag mi etiqueta = crea una etiqueta al ultimo commit
 
 ### etiquetas anotadas
 git tag -a v1.0 -m "my version 1.0" 
-git show = para ver las etiquetas
+git show = para ver las etiquetas y cambios echos en el commit
 
 ### filtrar etiquetas
+
+git tag -l "v1*" = filtra las etiquetas de acuerdo a las referencias
