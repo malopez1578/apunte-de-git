@@ -59,3 +59,4 @@ git tag mi etiqueta = crea una etiqueta al ultimo commit
 
 ### etiquetas anotadas
 git tag -a v1.0 -m "my version 1.0" 
+git show = para ver las etiquetas
