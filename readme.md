@@ -48,4 +48,4 @@ comandos para deshacer
 git commit --amend = abre la configuracion del mensaje del ultimo commit
 
 git reset HEAD <"file"> = deshace la preparacion
-
+git chackout -- <"file"> = deshace los cambios hechos
