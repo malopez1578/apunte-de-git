@@ -32,3 +32,5 @@ git statur diff -staff= diferencia entre dos archivos pendientes a cargar con el
 git add .=agrega todos los archivos
 git reset HEAD <"file">= saca los archivos de la zona de preparación
 git commit --amend = abre la configuracion del mensaje del ultimo commit
+
+.gitignore = Patrones de nombres de archivos que Git ignorara
