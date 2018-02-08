@@ -43,9 +43,19 @@ git log --pretty=format = nos asigna el formato que indiquemos
 git log after = "aaaa/mm/dd/ hh:mm:ss"
 git log before = "aaaa/mm/dd/ hh:mm:ss" nos muestra el historial en el tiempo que nosotros le indiquemos
 
-comandos para deshacer
+### comandos para deshacer
 
 git commit --amend = abre la configuracion del mensaje del ultimo commit
 
 git reset HEAD <"file"> = deshace la preparacion
 git chackout -- <"file"> = deshace los cambios hechos y avanza en el tiempo
+
+### etiquetas
+
+git tag = listar las etiquetas que existen
+
+### etiquetas ligeras
+git tag mi etiqueta = crea una etiqueta al ultimo commit
+
+### etiquetas anotadas
+git tag -a v1.0 -m "my version 1.0" 
