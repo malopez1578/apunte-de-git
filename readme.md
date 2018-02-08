@@ -23,6 +23,8 @@ Sistema de contro de versiones para el mantenimiento eficiente y confiable de ar
 cd desktop\curso git
 cd desktop\curso git> code .
 
+### primeros paso
+
 git initial = inicia el repositorio
 git status = revisa el estado del repositorio
 git add <"file"> agrega archivos al repositorio
@@ -36,7 +38,9 @@ git commit -a -m= saltar la zona de preparacion
 git rm =elimina archivos rastreados del repositorio y de nuestro directorio de trabajo
 git checkout --<"file">= recuperar archivos borrados
 git mv file_from file:to= renombra un archivo
-
+ 
+ ### nos muestra el historia de commits
+ 
 git log --oneline = nos muestra el historial en una solo linea
 git log --graph = muestra las ramificaciones del historial
 git log --pretty=format = nos asigna el formato que indiquemos
@@ -60,3 +64,5 @@ git tag mi etiqueta = crea una etiqueta al ultimo commit
 ### etiquetas anotadas
 git tag -a v1.0 -m "my version 1.0" 
 git show = para ver las etiquetas
+
+### filtrar etiquetas
