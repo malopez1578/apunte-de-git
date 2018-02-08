@@ -31,8 +31,6 @@ git status diff = muestra la diferencia entre archivos a cargar
 git statur diff -staff= diferencia entre dos archivos pendientes a cargar con el mismo nombre
 git add .=agrega todos los archivos
 git reset HEAD <"file">= saca los archivos de la zona de preparación
-git commit --amend = abre la configuracion del mensaje del ultimo commit
-
 .gitignore = Patrones de nombres de archivos que Git ignorara
 git commit -a -m= saltar la zona de preparacion
 git rm =elimina archivos rastreados del repositorio y de nuestro directorio de trabajo
@@ -42,3 +40,10 @@ git mv file_from file:to= renombra un archivo
 git log --oneline = nos muestra el historial en una solo linea
 git log --graph = muestra las ramificaciones del historial
 git log --pretty=format = nos asigna el formato que indiquemos
+git log after = "aaaa/mm/dd/ hh:mm:ss"
+git log before = "aaaa/mm/dd/ hh:mm:ss" nos muestra el historial en el tiempo que nosotros le indiquemos
+
+comandos para deshacer
+
+git commit --amend = abre la configuracion del mensaje del ultimo commit
+
