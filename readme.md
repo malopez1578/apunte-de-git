@@ -68,3 +68,7 @@ git show = para ver las etiquetas y cambios echos en el commit
 ### filtrar etiquetas
 
 git tag -l "v1*" = filtra las etiquetas de acuerdo a las referencias
+
+### crear nuevas ramas
+
+git branch crea eamas en el commit ubicado
