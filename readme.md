@@ -100,4 +100,8 @@ se pasa a las ramas con checkout
 git chackout -b crar y saltar a la nueva rama
 >>>>>>> testing
 
+## publicar cambios
+
+git push origin master
+
 
