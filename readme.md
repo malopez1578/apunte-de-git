@@ -69,6 +69,7 @@ git show = para ver las etiquetas y cambios echos en el commit
 
 git tag -l "v1*" = filtra las etiquetas de acuerdo a las referencias
 
+<<<<<<< HEAD
 ### crear nuevas ramas
 
 git branch crea eamas en el commit ubicado
@@ -91,5 +92,11 @@ git merge otra_rama = incorpora otra_rama en la actual
 
 
 
+=======
+### Ramas
+
+git branch = crea nuevas ramas
+se pasa a las ramas con checkout
+>>>>>>> testing
 
 
