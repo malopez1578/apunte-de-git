@@ -100,11 +100,13 @@ se pasa a las ramas con checkout
 git chackout -b crar y saltar a la nueva rama
 >>>>>>> testing
 
-## publicar cambios
+### publicar cambios
 
 git push origin master
 
 git fetch origin master = traer los cambios echos en la nube
 
 git pull trae y convima cambios
+
+este es una prueba a entorno grafico
 
