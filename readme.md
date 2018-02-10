@@ -72,3 +72,24 @@ git tag -l "v1*" = filtra las etiquetas de acuerdo a las referencias
 ### crear nuevas ramas
 
 git branch crea eamas en el commit ubicado
+
+### fusiones
+
+git merge otra_rama = incorpora otra_rama en la actual
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
