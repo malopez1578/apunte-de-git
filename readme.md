@@ -82,6 +82,8 @@ git branch -d nombreRama = elimina las ramas que ya han sido fusiinadas
 
 git branch -D nomnreRama = se fuerza el borrado, se pierden los cambios
 
+git tag -d etiquetaNombre = elimina la etiqueta seleccionada
+
 git branch --no-merged = nos muestra cuales ramas no han sido fusionadas
 
 git branch --merged = nos muestra las rams que han sido fusionadas a la rama actual
