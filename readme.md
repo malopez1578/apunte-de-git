@@ -104,4 +104,6 @@ git chackout -b crar y saltar a la nueva rama
 
 git push origin master
 
+git fetch origin master = traer los cambios echos en la nube
+
 
