@@ -80,19 +80,7 @@ git merge otra_rama = incorpora otra_rama en la actual
 
 git branch -d nombreRama = elimina las ramas que ya han sido fusiinadas
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+git branch -D nomnreRama = se fuerza el borrado, se pierden los cambios
 
 =======
 ### Ramas
