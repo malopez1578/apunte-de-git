@@ -78,6 +78,8 @@ git branch crea eamas en el commit ubicado
 
 git merge otra_rama = incorpora otra_rama en la actual
 
+git branch -d nombreRama = elimina las ramas que ya han sido fusiinadas
+
 
 
 
