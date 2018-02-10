@@ -106,4 +106,5 @@ git push origin master
 
 git fetch origin master = traer los cambios echos en la nube
 
+git pull trae y convima cambios
 
