@@ -91,6 +91,7 @@ git branch --merged = nos muestra las rams que han sido fusionadas a la rama act
 
 git branch = crea nuevas ramas
 se pasa a las ramas con checkout
+git chackout -b crar y saltar a la nueva rama
 >>>>>>> testing
 
 
