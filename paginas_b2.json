@@ -1,0 +1,202 @@
+[
+    {
+        "module":         "M_1",
+        "pages":          38,
+        "exercises":[
+					{
+            "drag":           11,
+            "recorder":       1,
+            "input-multiple": 1,
+            "input-unico":    7,
+            "select":         1,
+            "wordsearch":     1,
+            "carrousell":     9
+        	}  
+        ]
+		},
+    {
+        "module":         "M_2",
+        "pages":          37,
+        "exercises":[
+					{
+            "drag":           2,
+            "recorder":       1,
+            "input-multiple": 0,
+            "input-unico":    10,
+            "select":         0,
+            "crucigrama":     1,
+            "wordsearch":     0,
+            "carrousell":     2
+        	} 
+				]
+    },
+    {
+        "module":         "M_3",
+        "pages":          34,
+        "exercises":[
+					{
+            "drag":           3,
+            "upload":         1,
+            "recorder":       1,
+            "input-multiple": 3,
+            "flip-card":      1,
+            "input-unico":    6,
+            "select":         0,
+            "crucigrama":     0,
+            "wordsearch":     1,
+            "carrousell":     2,
+        	}
+				]
+    },
+    {
+        "module":         "M_4",
+        "pages":          34,
+        "exercises":[
+					{
+            "drag":           5,
+            "recorder":       1,
+            "input-multiple": 0,
+            "input-unico":    8,
+            "select":         0,
+            "crucigrama":     1,
+            "wordsearch":     0,
+            "carrousell":     2
+        	}
+				]
+    },
+    {
+        "module":         "M_5",
+        "pages":          37,
+        "exercises":[
+					{
+            "drag":           2,
+            "recorder":       1,
+            "input-multiple": 2,
+            "input-unico":    8,
+            "select":         0,
+            "crucigrama":     1,
+            "wordsearch":     0,
+            "carrousell":     8
+        	}
+				]
+    },
+    {
+        "module":         "M_6",
+        "pages":          39,
+        "exercises":[
+					{
+            "drag":           3,
+            "recorder":       3,
+            "input-multiple": 1,
+            "input-unico":    8,
+            "select":         0,
+            "crucigrama":     1,
+            "wordsearch":     0,
+            "carrousell":     4
+        	}
+				]
+    },
+    {
+        "module":         "M_7",
+        "pages":          41,
+        "exercises":[
+					{
+            "drag":           9,
+            "recorder":1,
+            "input-multiple": 0,
+            "input-unico":    7,
+            "select":         0,
+            "flip-card":      1,
+            "crucigrama":     1,
+            "wordsearch":     1,
+            "carrousell":     4
+        	}
+				]
+    },
+    {
+        "module":         "M_8",
+        "pages":          42,
+        "exercises":[
+					{
+            "drag":           5,
+            "recorder":				1,
+            "input-multiple": 3,
+            "input-unico":    5,
+            "select":         0,
+            "flip-card":      1,
+            "crucigrama":     0,
+            "wordsearch":     1,
+            "carrousell":     3
+        	}
+				]
+    },
+    {
+        "module":         "M_9",
+        "pages":          38,
+        "exercises":[
+					{
+            "drag":           8,
+            "upload":         1,
+            "recorder":       2,
+            "input-multiple": 2,
+            "input-unico":    8,
+            "select":         1,
+            "flip-card":      0,
+            "crucigrama":     0,
+            "wordsearch":     1,
+            "carrousell":     3 
+        	}
+				]
+    },
+    {
+        "module":         "M_10",
+        "pages":          39,
+        "exercises":[	
+					{
+            "drag":           3,
+            "recorder":       2,
+            "input-multiple": 0,
+            "input-unico":    8,
+            "select":         0,
+            "flip-card":           0,
+            "crucigrama":     0,
+            "wordsearch":     0,
+            "carrousell":     1
+        	}
+				]
+    },
+    {
+        "module":         "M_11",
+        "pages":          38,
+        "exercises":[
+					{
+            "drag":           4,
+            "recorder":       3,
+            "input-multiple": 0,
+            "input-unico":    7,
+            "select":         3,
+            "flip-card":      0,
+            "crucigrama":     0,
+            "wordsearch":     1,
+            "carrousell":     4
+        	}
+				]
+    },
+    {
+        "module":         "M_12",
+        "pages":          39,
+        "exercises":[
+					{
+            "drag":           7,
+            "recorder":       2,
+            "input-multiple": 0,
+            "input-unico":    6,
+            "select":         0,
+            "flip-card":      0,
+            "crucigrama":     0,
+            "wordsearch":     0,
+            "carrousell":     3
+        	}
+				]
+    }
+]
